@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Unreal Engine 초기 생성 파일 제외
+SoulDemo.cpp
+SoulDemo.h
+SoulDemo.Build.cs
+SoulDemo.Target.cs
+SoulDemoEditor.Target.cs
