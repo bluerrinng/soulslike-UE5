@@ -48,9 +48,8 @@
 
 아래는 게임 내 전투 장면 일부를 캡처한 이미지입니다.
 
-| 전투 장면 1 | 전투 장면 2 |
-|------------|------------|
-| ![Combat 1](https://www.dropbox.com/scl/fi/f235v01nsurj449spdasz/1.png?raw=1) | ![Combat 2](https://www.dropbox.com/scl/fi/1iv77p6s3eo4rd7w1jiko/2.png?raw=1) |
+![A screenshot of a game](https://drive.google.com/uc?id=169YCaKzi-cTVueW_UvhZhmI-zpp5Zq9U)
+
 
 
 ---
