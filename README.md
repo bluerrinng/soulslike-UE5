@@ -48,9 +48,9 @@
 
 아래는 게임 내 전투 장면 일부를 캡쳐한 이미지입니다
 
-![전투 장면](https://drive.google.com/uc?id=169YCaKzi-cTVueW_UvhZhmI-zpp5Zq9U)
-
 ![전투 장면 ](https://drive.google.com/uc?id=1AntUdPYR-B8wQZVabHHEIZjHL6r9NnDn)
+
+![전투 장면](https://drive.google.com/uc?id=169YCaKzi-cTVueW_UvhZhmI-zpp5Zq9U)
 
 ---
 
