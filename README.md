@@ -46,11 +46,11 @@
 
 ## 스크린샷
 
-아래는 게임 내 전투 장면 일부를 캡처한 이미지입니다.
+아래는 게임 내 전투 장면 일부를 캡쳐한 이미지입니다
 
-![A screenshot of a game](https://drive.google.com/uc?id=169YCaKzi-cTVueW_UvhZhmI-zpp5Zq9U)
+![전투 장면](https://drive.google.com/uc?id=169YCaKzi-cTVueW_UvhZhmI-zpp5Zq9U)
 
-
+![전투 장면 ](https://drive.google.com/uc?id=1AntUdPYR-B8wQZVabHHEIZjHL6r9NnDn)
 
 ---
 
